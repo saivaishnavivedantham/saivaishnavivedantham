@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Vaishnavi Vedantham</h1>
-<h3 align="center">A passionate Data Science Graduate</h3>
+<!-- <h3 align="center">A passionate Data Science Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saivaishnavivedantham&label=Profile%20views&color=0e75b6&style=flat" alt="saivaishnavivedantham" /> </p>
 
@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saivaishnavivedantham&show_icons=true&locale=en" alt="saivaishnavivedantham" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saivaishnavivedantham&" alt="saivaishnavivedantham" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saivaishnavivedantham&" alt="saivaishnavivedantham" /></p> -->
 
 
 
